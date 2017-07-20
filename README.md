@@ -1,1 +1,1 @@
-Boilerplace React App (v.2)
+Boilerplace React App (v.3)
